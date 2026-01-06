@@ -103,4 +103,4 @@ def low_stock_alerts(request, company_id):
     }
 ```
 ## Case Study Document
-Google Docs Link: [https://docs.google.com/your-doc-link](https://docs.google.com/document/d/1YIqutJmqu3sD5pU-I-78qY0-Hq8_Ovt5b_oLIPj0Lbk/edit?usp=sharing)
+Google Docs Link: [[https://docs.google.com/your-doc-link](https://docs.google.com/document/d/1YIqutJmqu3sD5pU-I-78qY0-Hq8_Ovt5b_oLIPj0Lbk/edit?usp=sharing)](https://docs.google.com/document/d/1YIqutJmqu3sD5pU-I-78qY0-Hq8_Ovt5b_oLIPj0Lbk/edit?usp=sharing)
